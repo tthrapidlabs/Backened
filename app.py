@@ -12,4 +12,4 @@ def chat():
         return "I didn't understand that"  
   
 if __name__ == '__main__':  
-    app.run(port=8000)  
+    app.run()  

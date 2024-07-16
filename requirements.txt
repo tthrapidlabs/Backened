@@ -1,2 +1,3 @@
 Flask==2.2.2
 sqlalchemy==1.4.45
+werkzeug==2.2.2
